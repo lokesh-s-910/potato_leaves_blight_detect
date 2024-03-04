@@ -1,4 +1,4 @@
-# <font color='yellow'>Potato_Leave_Blight_Detect</font>
+# Potato Leave Blight Detect
 
 ##  Download Dataset in Kaggle: https://www.kaggle.com/datasets/arjuntejaswi/plant-village
   - Dataset we have several folders:
@@ -23,6 +23,4 @@
 4. NPM
 5. FastAPI
 6. Jypter Notebook
-
-
    
