@@ -1,0 +1,9 @@
+model_config_list {
+ config {
+    name: 'potato_disease_project'
+    base_path: '/dl_project_2/saved_models'
+    model_platform: 'tensorflow'
+    model_version_policy: {all: {}}
+        }
+}
+
